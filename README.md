@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on English Learning Platform.
+Currently working on English Learning Platform
 
 
 # 💻 Tech Stack:
